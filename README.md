@@ -26,11 +26,11 @@
 <style>
 .mys{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
  }
  
  .row{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
  }
 </style>
