@@ -12,7 +12,7 @@
 ## Contact 
 
  
-<table cellspacing="0" cellpadding="0">
+<table style="border:hidden;">
  <thead>
   <tr>
    <td rowspan="2"><a href = "https://t.me/itsmeuknow"><img src="https://cdn-icons-png.flaticon.com/512/3773/3773685.png" target="_blank" width="100px"></a></td>
