@@ -24,6 +24,4 @@
 </table>
 
 
-</br>
   ![Snake animation](https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg)
-</div>
