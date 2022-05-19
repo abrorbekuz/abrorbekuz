@@ -11,8 +11,8 @@
 
 ## Contact 
 <div> 
-  <a href = "t.me/itsmeuknow"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" target="_blank" width="300px"></a>
-  <a href = "mailto: splayerme@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" target="_blank" width="300px"></a>
+  <a href = "t.me/itsmeuknow"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" target="_blank" width="100px"></a>
+  <a href = "mailto: splayerme@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" target="_blank" width="100px"></a>
  </br>
 </br>
  
