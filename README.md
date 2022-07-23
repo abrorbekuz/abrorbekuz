@@ -7,17 +7,19 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abrorbekuz)
 </br>
 </br>
-## My github stats
-
- <div>
-  <a href="https://github.com/abrorbekuz">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrorbekuz&layout=compact&langs_count=16&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrorbekuz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+<details>
+  <summary><b>My Github statistics</b></summary>
+  <br/>
+  <p align="left">
+    <a href="https://github.com/abrorbekuz">
+        <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=abrorbekuz&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abrorbekuz&theme=ayu-mirage&hide_border=true"/>
+    </a>
+</p>
+</details>
   
 </br>
 
-## Contact 
 <div>
 <table>
 <thead>
