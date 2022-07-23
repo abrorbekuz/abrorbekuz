@@ -1,5 +1,5 @@
 
-## About me
+<h3> __About me__</h3>
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Abror!
 
 - 💬 Ask me about [Python](https://www.python.org/)
@@ -7,8 +7,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abrorbekuz)
 </br>
 </br>
+<h3> __My Github Statistics__</h3>
 <details>
-  <summary><b>My Github statistics</b></summary>
+  <summary><b>show</b></summary>
   <br/>
   <p align="left">
     <a href="https://github.com/abrorbekuz">
@@ -19,7 +20,7 @@
 </details>
   
 </br>
-
+<h3> __Contact Me__</h3>
 <div>
 <table>
 <thead>
