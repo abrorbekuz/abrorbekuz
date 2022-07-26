@@ -1,5 +1,6 @@
 
-<h3> __About me__</h3>
+>__About me__ <br>
+
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Abror!
 
 - 💬 Ask me about [Python](https://www.python.org/)
@@ -7,20 +8,17 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abrorbekuz)
 </br>
 </br>
-<h3> __My Github Statistics__</h3>
-<details>
-  <summary><b>show</b></summary>
-  <br/>
-  <p align="left">
-    <a href="https://github.com/abrorbekuz">
-        <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=abrorbekuz&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true"/>
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abrorbekuz&theme=ayu-mirage&hide_border=true"/>
-    </a>
-</p>
-</details>
-  
-</br>
-<h3> __Contact Me__</h3>
+>__My Github Statistics__<br>
+
+<p align="left">
+  <a href="https://github.com/abrorbekuz">
+     <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=abrorbekuz&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true"/>
+     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abrorbekuz&theme=ayu-mirage&hide_border=true"/>
+  </a>
+</p><br>
+
+>__Contact Me__<br>
+
 <div>
 <table>
 <thead>
