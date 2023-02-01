@@ -12,7 +12,6 @@
 </thead>
 </table>
 
-</br>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
