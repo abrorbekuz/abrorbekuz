@@ -1,7 +1,5 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https:\\t.me\@itsmeuknow">Abror</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></b></samp></h3>
-- 💬 Ask me about [Python](https://www.python.org/)
-
-![](https://visitor-badge.glitch.me/badge?page_id=abrorbekuz)
+- 💬 Ask me about <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
 </br>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
@@ -9,6 +7,7 @@
      <br>
       <a href="https://github.com/abrorbekuz?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/abrorbekuz?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+      ![](https://visitor-badge.glitch.me/badge?page_id=abrorbekuz)
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=abrorbekuz&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
     Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://kevinjycui.github.io/src/Kevin_Cui_Resume.pdf">Resumé</a><br>
