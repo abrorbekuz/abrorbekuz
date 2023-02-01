@@ -2,10 +2,8 @@
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
-     <br>
       <a href="https://github.com/abrorbekuz?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/abrorbekuz?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
-  <br>
      <table align="center">
 <thead>
   <tr>
@@ -17,9 +15,6 @@
   </tr>
 </thead>
 </table>
- <br>
-     <a href="https://github.com/abrorbekuz?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-     <a href="https://github.com/abrorbekuz/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
   </samp>
   </p>
 </details>
@@ -28,3 +23,5 @@
 </br>
 
   ![Snake animation](https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg)
+<a align="left" href="https://github.com/abrorbekuz?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+     <a align="right" href="https://github.com/abrorbekuz/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
