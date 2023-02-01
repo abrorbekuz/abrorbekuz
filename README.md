@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b>Abror <a align="left" href="https://github.com/abrorbekuz?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a></samp></h3>
+<h3 align="center"><samp>Hello! I am <b>Abror !</samp></h3>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
@@ -21,10 +21,17 @@
         </tr>
       </thead>
    </table>
+   <a align="left" href="https://github.com/abrorbekuz?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+   <a href="https://github.com/abrorbekuz/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
 
 <div>
 </br>
-<a align="right" href="https://github.com/abrorbekuz/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
 <img align="center" src="https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg"/>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/abrorbekuz/abrorbekuz">kevinjycui</a>
+  </p>
+</samp>
