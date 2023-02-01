@@ -19,7 +19,7 @@
 </table>
  <br>
      <a href="https://github.com/abrorbekuz?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-     <a href="https://github.com/kevinjycui/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
+     <a href="https://github.com/abrorbekuz/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
   </samp>
   </p>
 </details>
