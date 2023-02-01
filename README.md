@@ -10,7 +10,6 @@
       <a href="https://github.com/abrorbekuz?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-375eab?style=flat-square&logo=Go&logoColor=white"></a>
       <a href="https://github.com/abrorbekuz?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/abrorbekuz?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-  <br>
    <table align="center">
       <thead>
         <tr>
@@ -28,4 +27,5 @@
 <div>
 </br>
    <a align="right" href="https://github.com/abrorbekuz/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
-  ![Snake animation](https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg)
+   
+   ![Snake animation](https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg)
