@@ -7,17 +7,21 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abrorbekuz)
 </br>
-</br>
->__My Github Statistics__<br>
-
-<p align="left">
-  <a href="https://github.com/abrorbekuz">
-     <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=abrorbekuz&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true"/>
-     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abrorbekuz&theme=ayu-mirage&hide_border=true"/>
-  </a>
-</p><br>
-
->__Contact Me__<br>
+<details align="center">
+   <summary> <samp>&#9776; Details</samp></summary>
+   <p align="center">
+     <br>
+      <a href="https://github.com/abrorbekuz?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+      <a href="https://github.com/abrorbekuz?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=abrorbekuz&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+    Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://kevinjycui.github.io/src/Kevin_Cui_Resume.pdf">Resumé</a><br>
+     <a href="https://github.com/kevinjycui?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+     <a href="https://github.com/kevinjycui" target="_blank"><img alt="kevinjycui" src="https://badges.pufler.dev/visits/kevinjycui/kevinjycui?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+     <a href="https://github.com/kevinjycui/kevinjycui" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/kevinjycui/kevinjycui?label=profile%20updated&style=flat-square"></a>
+  </samp>
+  </p>
+</details>
 
 <div>
 <table align="center">
