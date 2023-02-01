@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://t.me/itsmeuknow">Abror</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b>Abror <a align="left" href="https://github.com/abrorbekuz?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a></samp></h3>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
@@ -11,22 +11,21 @@
       <a href="https://github.com/abrorbekuz?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/abrorbekuz?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
-<table>
-<thead>
-  <tr>
-    <td rowspan="2"><a href = "https://t.me/itsmeuknow"><img src="https://cdn-icons-png.flaticon.com/512/3773/3773685.png" target="_blank" width="100px"></a></td>
-    <td>I'm a normal guy who loves girls a lot :)<br>Btw, i prefer my lovely laptop 😆</td>
-  </tr>
-  <tr>
-    <td><a href = "mailto: splayerme@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" target="_blank" width="100px"></a></td>
-  </tr>
-</thead>
-</table>
+   <table align="center">
+      <thead>
+        <tr>
+          <td rowspan="2"><a href = "https://t.me/itsmeuknow"><img src="https://cdn-icons-png.flaticon.com/512/3773/3773685.png" target="_blank" width="100px"></a></td>
+          <td>I'm a normal guy who loves girls a lot :)<br>Btw, i prefer my lovely laptop 😆</td>
+        </tr>
+        <tr>
+          <td><a href = "mailto: splayerme@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" target="_blank" width="100px"></a></td>
+        </tr>
+      </thead>
+   </table>
   </p>
 </details>
 
 <div>
 </br>
    <a align="right" href="https://github.com/abrorbekuz/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
-  ![Snake animation](https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg)   
-   <a align="left" href="https://github.com/abrorbekuz?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+  ![Snake animation](https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg)
