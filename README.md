@@ -1,6 +1,6 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https:\\t.me\@itsmeuknow">Abror</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></b></samp></h3>
 
-- 💬 Ask me about <a href="https://www.python.org" target="_blank">[PYTHON]</a>
+<p align="center"> - 💬 Ask me about <a href="https://www.python.org" target="_blank">[Python]</a> </p>
 </br>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
