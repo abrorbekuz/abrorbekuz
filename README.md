@@ -26,6 +26,5 @@
 
 <div>
 </br>
-   <a align="right" href="https://github.com/abrorbekuz/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
-   
-   ![Snake animation](https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg)
+<a align="right" href="https://github.com/abrorbekuz/abrorbekuz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/abrorbekuz/abrorbekuz?label=profile%20updated&style=flat-square"></a>
+<img align="center" src="https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg"/>
