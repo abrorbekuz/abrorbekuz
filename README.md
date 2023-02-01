@@ -28,8 +28,8 @@
 
 <div>
 </br>
-<img align="center" src="https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg"/>
 <samp>
+  <img align="center" src="https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg"/>
   <p align="center">
     ════ ⋆★⋆ ════<br>
     From <a href="https://github.com/abrorbekuz/abrorbekuz">itsmeuknow</a>
