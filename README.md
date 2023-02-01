@@ -1,6 +1,17 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https:\\t.me\@itsmeuknow">Abror</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></b></samp></h3>
 
-<p align="center"> - 💬 Ask me about <a href="https://www.python.org" target="_blank">[Python]</a> </p>
+<table align="center">
+<thead>
+  <tr>
+    <td rowspan="2"><a href = "https://t.me/itsmeuknow"><img src="https://cdn-icons-png.flaticon.com/512/3773/3773685.png" target="_blank" width="100px"></a></td>
+    <td>I'm a normal guy who loves girls a lot :)<br>Btw, i prefer my lovely laptop 😆</td>
+  </tr>
+  <tr>
+    <td><a href = "mailto: splayerme@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" target="_blank" width="100px"></a></td>
+  </tr>
+</thead>
+</table>
+
 </br>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
@@ -20,17 +31,6 @@
 </details>
 
 <div>
-<table align="center">
-<thead>
-  <tr>
-    <td rowspan="2"><a href = "https://t.me/itsmeuknow"><img src="https://cdn-icons-png.flaticon.com/512/3773/3773685.png" target="_blank" width="100px"></a></td>
-    <td>I'm a normal guy who loves girls a lot :)<br>Btw, i prefer my lovely laptop 😆</td>
-  </tr>
-  <tr>
-    <td><a href = "mailto: splayerme@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" target="_blank" width="100px"></a></td>
-  </tr>
-</thead>
-</table>
 </br>
 
   ![Snake animation](https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg)
