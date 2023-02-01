@@ -32,6 +32,6 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/abrorbekuz/abrorbekuz">kevinjycui</a>
+    From <a href="https://github.com/abrorbekuz/abrorbekuz">itsmeuknow</a>
   </p>
 </samp>
