@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https:\\t.me\@itsmeuknow">Abror</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://t.me/itsmeuknow">Abror</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></b></samp></h3>
 
 <table align="center">
 <thead>
@@ -12,6 +12,7 @@
 </thead>
 </table>
 
+</br>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
@@ -21,7 +22,6 @@
       ![](https://visitor-badge.glitch.me/badge?page_id=abrorbekuz)
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=abrorbekuz&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
-    Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://kevinjycui.github.io/src/Kevin_Cui_Resume.pdf">Resumé</a><br>
      <a href="https://github.com/kevinjycui?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
      <a href="https://github.com/kevinjycui" target="_blank"><img alt="kevinjycui" src="https://badges.pufler.dev/visits/kevinjycui/kevinjycui?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/kevinjycui/kevinjycui" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/kevinjycui/kevinjycui?label=profile%20updated&style=flat-square"></a>
