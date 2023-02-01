@@ -29,8 +29,8 @@
 <div>
 </br>
 <samp>
-  <img align="center" src="https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg"/>
   <p align="center">
+    <img src="https://github.com/abrorbekuz/abrorbekuz/blob/output/github-contribution-grid-snake.svg"/><br>
     ════ ⋆★⋆ ════<br>
     From <a href="https://github.com/abrorbekuz/abrorbekuz">itsmeuknow</a>
   </p>
