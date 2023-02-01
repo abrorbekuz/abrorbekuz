@@ -11,6 +11,7 @@
       <a href="https://github.com/abrorbekuz?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/abrorbekuz?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=abrorbekuz&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
 <thead>
   <tr>
     <td rowspan="2"><a href = "https://t.me/itsmeuknow"><img src="https://cdn-icons-png.flaticon.com/512/3773/3773685.png" target="_blank" width="100px"></a></td>
@@ -21,7 +22,6 @@
   </tr>
 </thead>
 </table>
-  </samp>
   </p>
 </details>
 
