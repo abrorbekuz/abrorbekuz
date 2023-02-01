@@ -1,8 +1,4 @@
-
->__About me__ <br>
-
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Abror!
-
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Abror! </a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></b></samp></h3>
 - 💬 Ask me about [Python](https://www.python.org/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abrorbekuz)
